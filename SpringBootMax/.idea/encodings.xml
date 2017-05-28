@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringBootMultipleDateSource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootParent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSimpleExample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSwagger" charset="UTF-8" />
+  </component>
+</project>

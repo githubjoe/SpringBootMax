@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringBootMultipleDateSource" />
+        <module name="SpringBootParent" />
+        <module name="SpringBootSimpleExample" />
+        <module name="SpringBootSwagger" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringBootMax" target="1.5" />
+      <module name="SpringBootMultipleDateSource" target="1.6" />
+      <module name="SpringBootParent" target="1.6" />
+      <module name="SpringBootSimpleExample" target="1.6" />
+      <module name="SpringBootSwagger" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
